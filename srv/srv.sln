@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "srv", "srv\srv.vcxproj", "{9D0EDBC8-1A2A-4957-B8E6-CAA4589D8F77}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "client", "client\client.vcxproj", "{40493E5F-8A62-4950-8FBC-822762256A06}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "prison", "prison\prison.vcxproj", "{B2E59401-C44C-4756-8A84-093C9F381308}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D0EDBC8-1A2A-4957-B8E6-CAA4589D8F77}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9D0EDBC8-1A2A-4957-B8E6-CAA4589D8F77}.Debug|Win32.Build.0 = Debug|Win32
+		{9D0EDBC8-1A2A-4957-B8E6-CAA4589D8F77}.Release|Win32.ActiveCfg = Release|Win32
+		{9D0EDBC8-1A2A-4957-B8E6-CAA4589D8F77}.Release|Win32.Build.0 = Release|Win32
+		{40493E5F-8A62-4950-8FBC-822762256A06}.Debug|Win32.ActiveCfg = Debug|Win32
+		{40493E5F-8A62-4950-8FBC-822762256A06}.Debug|Win32.Build.0 = Debug|Win32
+		{40493E5F-8A62-4950-8FBC-822762256A06}.Release|Win32.ActiveCfg = Release|Win32
+		{40493E5F-8A62-4950-8FBC-822762256A06}.Release|Win32.Build.0 = Release|Win32
+		{B2E59401-C44C-4756-8A84-093C9F381308}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B2E59401-C44C-4756-8A84-093C9F381308}.Debug|Win32.Build.0 = Debug|Win32
+		{B2E59401-C44C-4756-8A84-093C9F381308}.Release|Win32.ActiveCfg = Release|Win32
+		{B2E59401-C44C-4756-8A84-093C9F381308}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
